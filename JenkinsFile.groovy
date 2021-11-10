@@ -1,0 +1,6 @@
+def credentialId = ""
+def mvnHome = ""
+def fileSpec = ""
+def pathSpec = ""
+def parametersSpec = ""
+def mavenCommandBuild = ""
