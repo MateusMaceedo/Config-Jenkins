@@ -1,0 +1,14 @@
+#!groovy
+
+def credentialIdSSH = ""
+def credentialId = ""
+def credentialIdDev = ""
+def artifactoryCredentialId = ""
+def static final NODE = "${params.NODE_NAME}"
+def Build
+def Test
+def Sonar
+
+// pipeline
+// agent
+// node
