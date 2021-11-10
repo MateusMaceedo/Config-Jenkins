@@ -14,8 +14,9 @@ Esse pipeline foi criado apenas para conhecimento, notem que não estou realizan
 
 Foi necessário a instalação do Docker e do Sonar-Scanner, os links para instalação estão logo abaixo:
 
-[x] - [Install Docker](https://docs.docker.com/v17.12/install/)
-[x] - [SonarScanner](https://docs.sonarqube.org/latest/analysis/scan/sonarscanner/)[x] - [Jenkins](https://bitnami.com/stack/jenkins)
+- [x] - [Install Docker](https://docs.docker.com/v17.12/install/)
+- [x] - [SonarScanner](https://docs.sonarqube.org/latest/analysis/scan/sonarscanner/)
+- [x] - [Jenkins](https://bitnami.com/stack/jenkins)
 
 >Obs: importante verificar o caminho onde foi instalado o sonar-scanner.
 
